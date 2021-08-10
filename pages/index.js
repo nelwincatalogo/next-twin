@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 tw="text-2xl text-gray-700 font-bold">Hello World</h1>
+        <h1 tw="text-2xl text-red-500 font-bold">Hello World</h1>
       </main>
     </div>
   );
