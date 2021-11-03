@@ -29,3 +29,6 @@ npx create-next-app [project-name] -e https://github.com/nelwincatalogo/next-twi
   - Husky
   - lint-staged
   - pretty-quick
+- Default Font ( Poppins )
+- TypeScript Support
+- Logs Remover on Production Build
