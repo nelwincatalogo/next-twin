@@ -22,7 +22,6 @@ npx create-next-app [project-name] -e https://github.com/nelwincatalogo/next-twi
   - [Styled-Components](https://www.styled-components.com)
 - [Absolute Import](https://nextjs.org/docs/advanced-features/module-path-aliases)
 - Linting
-  - eslint
   - prettier
   - eslint-config-prettier
   - eslint-plugin-prettier
