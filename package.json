@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "postinstall": "husky install .husky"
   },
   "dependencies": {
     "next": "10.2.2",
