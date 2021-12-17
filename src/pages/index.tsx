@@ -1,7 +1,10 @@
+import { useAlert } from 'react-alert';
 import Head from 'next/head';
 import 'twin.macro';
 
 export default function Home() {
+  const alert = useAlert();
+
   return (
     <div>
       <Head>
@@ -17,6 +20,7 @@ export default function Home() {
 
       <main>
         <h1 tw="text-2xl text-red-500 font-bold">Hello World</h1>
+        <button onClick={() => alert.success('Hello World')}>test alert</button>
       </main>
     </div>
   );
