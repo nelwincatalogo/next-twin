@@ -21,6 +21,8 @@ npx create-next-app [project-name] -e https://github.com/nelwincatalogo/next-twi
   - [TailwindCSS](https://tailwindcss.com/)
   - [Styled-Components](https://www.styled-components.com)
 - [Absolute Import](https://nextjs.org/docs/advanced-features/module-path-aliases)
+- [React Alert](https://www.npmjs.com/package/react-alert)
+- [React Icons](https://react-icons.github.io/react-icons/search)
 - Linting
   - prettier
   - eslint-config-prettier
